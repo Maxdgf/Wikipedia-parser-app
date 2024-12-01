@@ -1,2 +1,2 @@
-pygame==2.5.2
+wikipedia==1.4.0
 tk==0.1.0
