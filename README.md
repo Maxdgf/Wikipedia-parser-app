@@ -4,7 +4,5 @@ Simple wikipedia parser app. App can parse summary and save result to txt file. 
 <h3>Requirements:</h3>
 
 ##
-    pip install tkinter
+    pip install -r requirements.txt
 
-##
-    pip install wikipedia
